@@ -1,4 +1,4 @@
-import utils.constants.FourLetterWords;
+import pers.hw7.zk.monitor.utils.constants.FourLetterWords;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
